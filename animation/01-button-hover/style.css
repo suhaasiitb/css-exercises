@@ -17,3 +17,13 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+button:hover {
+  border-radius: 14px;
+  border: none;
+  background-color: #2563eb;
+  color: white;
+  font-size: 20px;
+  padding: 20px 28px;
+  text-align: center;
+}
