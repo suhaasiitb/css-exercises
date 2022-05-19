@@ -1,0 +1,24 @@
+.class1 {
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+#id1{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.class2{
+    background-color: hsl(351, 100%, 86%);
+    font-size: 24px;
+}
+
+#id2{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class3{
+    background-color: hsl(351, 100%, 86%);
+}
